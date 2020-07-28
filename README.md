@@ -11,7 +11,7 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Welcome!</h2>
 
-Hi, my name is João Marcos (he/him), I'm 19 and from Brazil.
+Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major college degree by 2025 in Computer Science.
 
@@ -19,10 +19,10 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
 <!-- Study -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
-Here's a list of topics I study in free time:
-1. New programming languages (Rust)
-2. Algorithms and Data Structures (C++)
-3. Linux management (Shell script)
+Here's a list of topics I like to study in free time:
+1. New programming languages
+2. Algorithms and Data Structures (C++ and Rust)
+3. Linux management (end user side, Shell script)
 4. Game development (Godot)
 5. Back-end development (Python/Javascript)
 
@@ -68,7 +68,7 @@ Besides the coding, I also did some talks/tutorials at:
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
 
 1. I believe sushi is the best food ever 🍣
-2. I love _ping pong_ 🏓 and _vollelyball_ 🏐
+2. I love _ping pong_ 🏓 and _volleyball_ 🏐
 3. I want to build great software that makes the world a better place 😉
 4. I'm trying to get into a workout routine to be more healthy and live longer 🙂
 6. If my name were to be translated, I'd be called "John Marks"
