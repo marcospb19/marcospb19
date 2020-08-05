@@ -20,11 +20,11 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
 Here's a list of topics I like to study in free time:
-1. New programming languages
-2. Algorithms and Data Structures (C++ and Rust)
-3. Linux management (end user side, Shell script)
-4. Game development (Godot)
-5. Back-end development (Python/Javascript)
+1. New programming languages.
+2. Algorithms and Data Structures (C++ and Rust).
+3. Linux management (end user side, Shell script).
+4. Game development (Godot).
+5. Back-end development (Python/Javascript).
 
 I'm mainly focusing in Rust and C++ at the time.
 
@@ -67,12 +67,12 @@ Besides the coding, I also did some talks/tutorials at:
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
 
-1. I believe sushi is the best food ever 🍣
-2. I love _ping pong_ 🏓 and _volleyball_ 🏐
-3. I want to build great software that makes the world a better place 😉
-4. I'm trying to get into a workout routine to be more healthy and live longer 🙂
-6. If my name were to be translated, I'd be called "John Marks"
-5. And I plan on making a Linux distribution
+1. I believe sushi is the best food ever! 🍣
+2. I love _ping pong_ 🏓 and _volleyball_ .🏐
+3. I want to build great software that makes the world a better place. 😉
+4. I'm trying to get into a workout routine to be more healthy and live longer. 🙂
+6. If my name were to be translated, I'd be called "John Marks".
+5. And I plan on making a Linux distribution.
 
 
 ---
