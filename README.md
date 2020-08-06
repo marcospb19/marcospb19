@@ -29,10 +29,10 @@ Here's a list of topics I like to study in free time:
 I'm mainly focusing in Rust and C++ at the time.
 
 ---
-<!-- Personal Projects -->
+<!-- Projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Personal projects</h2>
 
-This section is a **scratch** with 3 _CLI_ projects (I'm currently organizing repositories, this might change soon).
+This section is a poor **scratch** that will change soon (a month or so).
 
 <table>
   <tr>
