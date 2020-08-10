@@ -29,7 +29,7 @@ Here's a list of topics I like to study in free time:
 I'm mainly focusing in Rust and C++ at the time.
 
 ---
-<!-- Projects -->
+<!-- Projects
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Personal projects</h2>
 
 This section is a poor **scratch** that will change soon (a month or so).
@@ -62,7 +62,7 @@ I'm starting to make more contributions to open-source software through GitHub o
 Besides the coding, I also did some talks/tutorials at:
 - Python Brasil
 - GruPy-RN
-
+-->
 ---
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
