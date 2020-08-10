@@ -62,8 +62,8 @@ I'm starting to make more contributions to open-source software through GitHub o
 Besides the coding, I also did some talks/tutorials at:
 - Python Brasil
 - GruPy-RN
--->
 ---
+-->
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
 
