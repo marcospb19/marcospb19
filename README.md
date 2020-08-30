@@ -35,7 +35,6 @@ I'm mainly focusing in Rust and C++ at the time.
 This section is subject to changes (everything here is recent).
 
 <table>
-  https://github.com/godotengine/godot
   <tr>
     <td width="43%"><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear" /></a></td>
     <td>
