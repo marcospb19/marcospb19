@@ -16,7 +16,7 @@ Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 I'm an IT undergraduate and I plan on getting a major college degree by 2025 in Computer Science.
 
 ---
-<!-- Study -->
+<!-- Studies -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
 Here's a list of topics I like to study in free time:
@@ -29,10 +29,10 @@ Here's a list of topics I like to study in free time:
 I'm mainly focusing in Rust and C++ at the time.
 
 ---
-<!-- Projects
+<!-- Personal projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Personal projects</h2>
 
-This section is a poor **scratch** that will change soon (a month or so).
+This section is subject to changes (everything here is recent).
 
 <table>
   <tr>
@@ -50,9 +50,9 @@ This section is a poor **scratch** that will change soon (a month or so).
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/gitao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=gitao" /></a></td>
+    <td width="43%"><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dawctl" /></a></td>
     <td>
-        An abandoned project, but I think about resuming the development, it's a git helper that would help you with cloning, URLs, and listing repositories within the terminal.
+        A recent project, I rewrote the device manager for the DeathAdder 2013 mouse for my DeathAdder White Edition mouse. I needed to reverse engineer the USB communication from Razer Synapse to my mouse, capturing it with WireShark, exporting it into .JSON, and then analysing with Python until I could figure out the bytes patterns in the communication.
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Besides the coding, I also did some talks/tutorials at:
 - Python Brasil
 - GruPy-RN
 ---
--->
+
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
 
