@@ -7,13 +7,17 @@
     Godot Wink:        https://i.imgur.com/myYgqBu.png
 -->
 
-
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Welcome!</h2>
 
 Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major college degree by 2025 in Computer Science.
+
+<table>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" /></td>
+</table>
 
 ---
 <!-- Studies -->
@@ -36,28 +40,28 @@ This section is subject to changes (everything here is recent).
 
 <table>
   <tr>
-    <td width="43%"><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear" /></a></td>
+    <td width="43%"><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
         I usually don't list my old and bad projects, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it.
     </td>
   </tr>
 
   <tr>
-    <td width="43%"><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dawctl" /></a></td>
+    <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
         The project I most enjoyed working on (until now), I rewrote the device manager for the DeathAdder 2013 mouse for my DeathAdder White Edition. I needed to reverse engineer the USB communication from Razer Synapse to my mouse, capturing it with WireShark, exporting it into .JSON, and then analysing with Python until I could figure out the bytes and bits patterns in the USBHID communication. This turned out to be very challenging.
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotman" /></a></td>
+    <td><a href="https://github.com/marcospb19/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotman&theme=dark" /></a></td>
     <td>
         DotMan is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, that works very well and is fast.
     </td>
   </tr>
   
    <tr>
-    <td width="43%"><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot" /></a></td>
+    <td><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=dark" /></a></td>
     <td>
         Godot is the engine I love the most, I'm trying to start making contributions to it, but it has also been a challenge to deal with the C++ codebase, soon I'll be able to list here what I managed to pull off to the project.
     </td>
