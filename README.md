@@ -54,9 +54,9 @@ This section is subject to changes (everything here is recent).
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotman&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
-        DotMan is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, that works very well and is fast.
+        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, that works very well and is fast.
     </td>
   </tr>
   
