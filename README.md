@@ -40,7 +40,7 @@ This section is subject to changes (everything here is recent).
 
 <table>
   <tr>
-    <td width="46%"><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
         I usually don't list my old and bad projects, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it.
     </td>
