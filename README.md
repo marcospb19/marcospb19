@@ -25,13 +25,13 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
   </td>
   <td>
-    Here's a list of topics I like to study in free time:
-    1. New programming languages.
-    2. Algorithms and Data Structures (C++ and Rust).
-    3. Linux management (end user side, Shell script).
-    4. Game development (Godot).
-    5. Back-end development (Python/Javascript).
-    <br><br>
+    Here's a list of topics I like to study in free time:<br>
+    1. New programming languages.<br>
+    2. Algorithms and Data Structures (C++ and Rust).<br>
+    3. Linux management (end user side, Shell script).<br>
+    4. Game development (Godot).<br>
+    5. Back-end development (Python/Javascript).<br>
+    <br>
     I'm mainly focusing in Rust and C++ at the time.
   </td>
 </table>
