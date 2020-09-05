@@ -14,24 +14,27 @@ Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major college degree by 2025 in Computer Science.
 
-<table>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" /></td>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark" />
 
 ---
 <!-- Studies -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
-Here's a list of topics I like to study in free time:
-1. New programming languages.
-2. Algorithms and Data Structures (C++ and Rust).
-3. Linux management (end user side, Shell script).
-4. Game development (Godot).
-5. Back-end development (Python/Javascript).
+<table>
+  <td width=385px>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
+  </td>
+  <td>
+    Here's a list of topics I like to study in free time:
+    1. New programming languages.
+    2. Algorithms and Data Structures (C++ and Rust).
+    3. Linux management (end user side, Shell script).
+    4. Game development (Godot).
+    5. Back-end development (Python/Javascript).
 
-I'm mainly focusing in Rust and C++ at the time.
-
+    I'm mainly focusing in Rust and C++ at the time.
+  </td>
+</table>
 ---
 <!-- Projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Projects</h2>
