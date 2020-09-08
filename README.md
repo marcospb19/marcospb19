@@ -26,7 +26,7 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
   </td>
   <td>
     Here's a list of topics I like to study in free time:<br>
-    1. New programming languages.<br>
+    1. More programming languages. (Rust)<br>
     2. Algorithms and Data Structures (C++ and Rust).<br>
     3. Linux management (end user side, Shell script).<br>
     4. Game development (Godot).<br>
