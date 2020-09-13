@@ -40,7 +40,7 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
 <!-- Projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Projects</h2>
 
-This section is subject to changes (everything here is recent).
+Some projects I like, some projects I want to contribute to.
 
 <table>
   <tr>
