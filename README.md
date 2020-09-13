@@ -32,7 +32,7 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
     4. Game development (Godot).<br>
     5. Back-end development (Python/Javascript).<br>
     <br>
-    I'm mainly focusing in Rust and C++ at the time.
+    I'm mainly focusing in Rust at the time.
   </td>
 </table>
 
