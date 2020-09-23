@@ -12,7 +12,7 @@
 
 Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 
-I'm an IT undergraduate and I plan on getting a major college degree by 2025 in Computer Science.
+I'm an IT undergraduate and I plan on getting a major in Computer Science by 2025.
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark" />
 
@@ -40,13 +40,11 @@ I'm an IT undergraduate and I plan on getting a major college degree by 2025 in 
 <!-- Projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Projects</h2>
 
-Some projects I like, some projects I want to contribute to.
-
 <table>
   <tr>
     <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
-        I usually don't list my old and bad projects, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it.
+      I usually don't list my old and bad projects, and trust me, this one is <i>both</i>, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it and.
     </td>
   </tr>
 
@@ -60,16 +58,32 @@ Some projects I like, some projects I want to contribute to.
   <tr>
     <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
-        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, that works very well and is fast.
+        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, but it's not mature yet, on the process of making it I lost my focus and started creating public libraries for the community to solve some common problems that yet hadn't been solved before.
     </td>
   </tr>
   
+  <tr>
+    <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
+    <td>
+      This Rust crate (lib) wraps low level functionality of the <b>libc</b> and <b>unix</b> <i>API</i> and grants useful functions so that you can ask questions about permissions in files without worrying about implementing this weird stuff below it.
+    </td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
+    <td>
+      This Rust crate (lib) gives a very friendly interface for asking to the filesystem about file types.
+    </td>
+  </tr>
+  
+  <!--
    <tr>
     <td><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=dark" /></a></td>
     <td>
         Godot is the engine I love the most, I'm trying to start making contributions to it, but it has also been a challenge to deal with the C++ codebase, soon I'll be able to list here what I managed to pull off to the project.
     </td>
   </tr>
+  -->
 </table>
 
 I'm starting to make more contributions to open-source software through GitHub on projects from other people.
