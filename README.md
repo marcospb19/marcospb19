@@ -44,7 +44,7 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
   <tr>
     <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
-      I usually don't list my old and bad projects, and trust me, this one is <i>both</i>, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it and.
+      I usually don't list my old and bad projects, and trust me, this one is <i>both</i>, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it.
     </td>
   </tr>
 
@@ -58,14 +58,14 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
   <tr>
     <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
-        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, but it's not mature yet, on the process of making it I lost my focus and started creating public libraries for the community to solve some common problems that yet hadn't been solved before.
+        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, but it's not mature yet, on the process of making it I lost my focus and started creating public libraries for the community to solve some common problems that yet haven't been solved before.
     </td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
     <td>
-      This Rust crate (lib) wraps low level functionality of the <b>libc</b> and <b>unix</b> <i>API</i> and grants useful functions so that you can ask questions about permissions in files without worrying about implementing this weird stuff below it.
+      This Rust crate (lib) wraps low level functionality of the <b>libc</b> and <b>unix</b> <i>API</i> and grants useful functions so that you can ask questions about permissions in files without worrying about implementing the weird stuff below it.
     </td>
   </tr>
   
