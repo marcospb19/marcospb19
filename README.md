@@ -14,7 +14,7 @@ Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major in Computer Science by 2025.
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark&include_all_commits=true" />
 
 ---
 <!-- Studies -->
