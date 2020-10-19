@@ -10,7 +10,7 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Welcome!</h2>
 
-Hi, my name is João Marcos (he/him), I'm 19 and I'm from Brazil.
+Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major in Computer Science by 2025.
 
