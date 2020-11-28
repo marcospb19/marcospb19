@@ -12,7 +12,7 @@
 
 Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
 
-I'm an IT undergraduate and I plan on getting a major in Computer Science by 2025.
+I'm an IT undergraduate and I plan on getting a major in Computer Science by 2024.
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark&include_all_commits=true" />
 
@@ -25,57 +25,72 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
   </td>
   <td>
-    Here's a list of topics I like to study in free time:<br>
+    <!-- Here's a list of topics I like to study in free time:<br>
     1. More programming languages. (Rust)<br>
     2. Algorithms and Data Structures (C++ and Rust).<br>
-    3. Linux management (end user side, Shell script).<br>
-    4. Game development (Godot).<br>
-    5. Back-end development (Python/Javascript).<br>
-    <br>
-    I'm mainly focusing in Rust at the time.
+    3. Linux management (user/dev side, Shell script automation).<br>
+    4. Back-end development experiments (Python/Rust/Javascript).<br>
+    5. Game dev (Godot Engine).<br>
+    <br> -->
+    I'm mainly focusing in:<br>
+    1. Python for back-end.<br>
+    2. Rust for Unix projects I'm passionate about.<br>
+    3. C++ for heavy duty algorithms studying.<br>
   </td>
 </table>
+
+I did some talks about Python at:
+- Python Brasil (National event!)
+- GruPy-RN (Local community)
+
+By participating in competitive programming contests (problem solving), me and my trio got first place in our state twice! (2019 and 2020), wish me luck for the national finals that are coming soon!
+
+I'm a tutor in my college. Not to brag but people often come and say I'm good at teaching, that's something I really like to do, so I'm really proud of it.
+
+I also know Shell Script and really like customizing my Linux system for productivity and appearance.
 
 ---
 <!-- Projects -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Projects</h2>
 
+Here's an intersection of (software I wrote) with (software I like):
+
 <table>
   <tr>
     <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
-      I usually don't list my old and bad projects, and trust me, this one is <i>both</i>, but this was my first ever GitHub project, I keep it here for the record, wasn't experienced at all in programming but I knew how to colorize output, it's great to look back at it.
+      This was my first GitHub project ever, just after I started learning C from college plus a book, it's funny to look back at the bad code I've written, I hope I'm doing better now.
     </td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
-        The project I most enjoyed working on (until now), I rewrote the device manager for the DeathAdder 2013 mouse for my DeathAdder White Edition. I needed to reverse engineer the USB communication from Razer Synapse to my mouse, capturing it with WireShark, exporting it into .JSON, and then analysing with Python until I could figure out the bytes and bits patterns in the USBHID communication. This turned out to be very challenging.
+        I got very hyped when I realized that I could reverse-engineer the Razer proprietary software (capture the USB communication) and hack my mouse! Something I had never thought about before. Really enjoyed making it, turned out to be very challenging.
     </td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
-        Dotao is my personal project I'm most focused on, it's a WIP DotFiles manager inspired by `stow`, but it's not mature yet, on the process of making it I lost my focus and started creating public libraries for the community to solve some common problems that yet haven't been solved before.
+        Expecting Dotao to become big, and I hope I'm right, it's a <b>DotFiles Manager</b> inspired by `stow`, which is a utility that can help you version configs between your personal systems, more useful for people who really like Linux and to customize their own desktop (<a href="https://github.com/marcospb19/dotfiles">like me</a>).
     </td>
   </tr>
-  
+
   <tr>
     <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
     <td>
-      This Rust crate (lib) wraps low level functionality of the <b>libc</b> and <b>unix</b> <i>API</i> and grants useful functions so that you can ask questions about permissions in files without worrying about implementing the weird stuff below it.
+      Well, I didn't found a <i>crate</i> to ask for file permissions beforehand in Rust, so I just made it.
     </td>
   </tr>
-  
-  <tr>
+
+  <!-- <tr>
     <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
     <td>
-      This Rust crate (lib) gives a very friendly interface for asking to the filesystem about file types.
+      Nice enum for asking about file types.
     </td>
-  </tr>
-  
+  </tr> -->
+
   <!--
    <tr>
     <td><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=dark" /></a></td>
@@ -86,31 +101,27 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
   -->
 </table>
 
-I'm starting to make more contributions to open-source software through GitHub on projects from other people.
 
-Besides the coding, I also did some talks/tutorials at:
-- Python Brasil
-- GruPy-RN
 ---
 
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
 
 1. I believe sushi is the best food ever! 🍣
-2. I love _ping pong_ 🏓 and _volleyball_ .🏐
-3. I want to build great software that makes the world a better place. 😉
-4. I'm trying to get into a workout routine to be more healthy and live longer. 🙂
-6. If my name were to be translated, I'd be called "John Marks".
-5. And I plan on making a Linux distribution.
-
+2. I currently have 6 awesome cats, in Brazil we say that they got 7 lives instead of 9. 🐱
+3. I want to build software that make people excited. 🙂
+4. I'm trying to keep up with a healthy workout. 😉
+5. I dream of making an unique Linux distribution and a text editor.
+6. If my name were to be translated, I'd be called "John Marks Heifer". 🧐
+7. And I'd probably <i>beat your ass</i> in _ping pong_ 🏓.
 
 ---
 <!-- Contact -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Contact</h2>
 
-The fastest way to reach me is by sending a DM in Telegram, but you can also e-mail me :D
+The easiest way to contact me is by sending a DM in Telegram, but you can also email me! :D
 
 Telegram: @marcospb19 \
 E-mail: marcospb19@hotmail.com
 
-Whatever you wanna talk about, if you need help with anything, contact me 😎.
+Whatever you wanna talk about, contact me 😎.
