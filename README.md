@@ -43,7 +43,7 @@ I did some talks about Python at:
 - Python Brasil (National event!)
 - GruPy-RN (Local community)
 
-By participating in competitive programming contests (problem solving), me and my trio got first place in our state twice! (2019 and 2020), wish me luck for the national finals that are coming soon!
+By participating in competitive programming contests (problem solving), me and my trio got the first place in our state twice! (2019 and 2020), wish me luck for the national finals that are coming soon!
 
 I'm a tutor in my college. Not to brag but people often come and say I'm good at teaching, that's something I really like to do, so I'm really proud of it.
 
