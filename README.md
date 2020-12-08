@@ -14,7 +14,7 @@ Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major in Computer Science by 2024.
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcospb19&show_icons=true&theme=dark&include_all_commits=true" />
+<img src="https://github-readme-stats-marcospb19.vercel.app/api?username=marcospb19&show_icons=true&theme=dark&include_all_commits=true" />
 
 ---
 <!-- Studies -->
@@ -22,7 +22,7 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
 
 <table>
   <td width=385px>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
   </td>
   <td>
     <!-- Here's a list of topics I like to study in free time:<br>
@@ -57,35 +57,35 @@ Here's an intersection of (software I wrote) with (software I like):
 
 <table>
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
+    <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
       This was my first GitHub project ever, just after I started learning C from college plus a book, it's funny to look back at the bad code I've written, I hope I'm doing better now.
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
         I got very hyped when I realized that I could reverse-engineer the Razer proprietary software (capture the USB communication) and hack my mouse! Something I had never thought about before. Really enjoyed making it, turned out to be very challenging.
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
         Expecting Dotao to become big, and I hope I'm right, it's a <b>DotFiles Manager</b> inspired by `stow`, which is a utility that can help you version configs between your personal systems, more useful for people who really like Linux and to customize their own desktop (<a href="https://github.com/marcospb19/dotfiles">like me</a>).
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
     <td>
       Well, I didn't found a <i>crate</i> to ask for file permissions beforehand in Rust, so I just made it.
     </td>
   </tr>
 
   <!-- <tr>
-    <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
     <td>
       Nice enum for asking about file types.
     </td>
@@ -93,7 +93,7 @@ Here's an intersection of (software I wrote) with (software I like):
 
   <!--
    <tr>
-    <td><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=godotengine&repo=godot&theme=dark" /></a></td>
+    <td><a href="https://github.com/godotengine/godot"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=godotengine&repo=godot&theme=dark" /></a></td>
     <td>
         Godot is the engine I love the most, I'm trying to start making contributions to it, but it has also been a challenge to deal with the C++ codebase, soon I'll be able to list here what I managed to pull off to the project.
     </td>
