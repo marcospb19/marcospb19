@@ -55,6 +55,8 @@ I also know Shell Script and really like customizing my Linux system for product
 
 Here's an intersection of (software I wrote) with (software I like):
 
+Note: I've been really putting effort in projects just recently, so there's a lot of unfinished stuff here.
+
 <table>
   <tr>
     <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
@@ -81,6 +83,13 @@ Here's an intersection of (software I wrote) with (software I like):
     <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
     <td>
       Well, I didn't found a <i>crate</i> to ask for file permissions beforehand in Rust, so I just made it.
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-grayjack.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
+    <td>
+      Aaaaaawesome rust macros, I've putten effort on trying to perfect the README and improve the documentation.
     </td>
   </tr>
 
