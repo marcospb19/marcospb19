@@ -122,7 +122,7 @@ Note: I've been really putting effort in projects just recently, so there's a lo
 4. I'm trying to keep up with a healthy workout. 😉
 5. I dream of making an unique Linux distribution and a text editor.
 6. If my name were to be translated, I'd be called "John Marks Heifer". 🧐
-7. And I'd probably <i>beat your ass</i> in _ping pong_ 🏓.
+7. And I'd probably <i>beat your ass</i> in _table tennis_ 🏓.
 
 ---
 <!-- Contact -->
