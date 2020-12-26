@@ -87,7 +87,7 @@ Note: I've been really putting effort in projects just recently, so there's a lo
   </tr>
 
   <tr>
-    <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-grayjack.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
+    <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
     <td>
       Aaaaaawesome rust macros, I've putten effort on trying to perfect the README and improve the documentation.
     </td>
