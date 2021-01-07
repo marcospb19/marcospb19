@@ -33,9 +33,9 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
     5. Game dev (Godot Engine).<br>
     <br> -->
     I'm mainly focusing in:<br>
-    1. Python for back-end.<br>
-    2. Rust for Unix projects I'm passionate about.<br>
-    3. C++ for heavy duty algorithms studying.<br>
+    1. Rust for Unix projects I'm passionate about.<br>
+    2. C++ for heavy duty algorithms studying.<br>
+    3. Python for back-end.<br>
   </td>
 </table>
 
