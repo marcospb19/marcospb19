@@ -126,7 +126,7 @@ Here's an intersection of `(software I wrote)` with `(software I like)`:
 3. I want to build software that make people excited. 🙂
 4. I dream of making an unique text editor.
 5. If my name were to be translated, I'd be called "John Marks Heifer". 🧐
-6. I love sports. 😉
+6. I love sports. 😉 \
 6.5. Aaaand I'd probably _beat your ass_ in _table tennis_ 🏓.
 
 ---
