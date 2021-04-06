@@ -90,6 +90,13 @@ Here's an intersection of `(software I wrote)` with `(software I like)`:
       Awesome rust macros by Eric, I've putten effort on trying to perfect the README and improve the documentation.
     </td>
   </tr>
+  
+  <tr>
+    <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=vrmiguel&repo=ouch&theme=dark" /></a></td>
+    <td>
+      Almost functional (April) unified file compression CLI tool written in Rust!
+    </td>
+  </tr>
 
   <!-- <tr>
     <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
