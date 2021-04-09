@@ -35,7 +35,6 @@ I'm an IT undergraduate and I plan on getting a major in Computer Science by 202
     I'm mainly focusing in:<br>
     1. Rust for Unix projects I'm passionate about.<br>
     2. C++ for heavy duty algorithms studying.<br>
-    3. Python for back-end.<br>
   </td>
 </table>
 
