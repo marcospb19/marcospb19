@@ -93,7 +93,7 @@ Here's an intersection of `(software I wrote)` with `(software I like)`:
   <tr>
     <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=vrmiguel&repo=ouch&theme=dark" /></a></td>
     <td>
-      Almost functional (April) unified file compression CLI tool written in Rust!
+       Unified file compression CLI tool written in Rust!
     </td>
   </tr>
 
