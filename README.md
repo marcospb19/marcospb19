@@ -14,9 +14,8 @@ Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
 
 I'm an IT undergraduate and I plan on getting a major in Computer Science by 2024.
 
-<img src="https://github-readme-stats-marcospb19.vercel.app/api?username=marcospb19&show_icons=true&theme=dark&include_all_commits=true" />
-
 ---
+
 <!-- Studies -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
@@ -132,7 +131,7 @@ Here's an intersection of `(software I wrote)` with `(software I like)`:
 <!-- Contact -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Contact</h2>
 
-Telegram: @marcospb19 \
+Telegram: @marcospb19 (just temporarly disabled) \
 E-mail: marcospb19@hotmail.com
 
 Whatever you wanna talk about, contact me 😎.
