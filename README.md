@@ -131,7 +131,7 @@ Here's an intersection of `(software I wrote)` with `(software I like)`:
 <!-- Contact -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Contact</h2>
 
-Telegram: @marcospb19 (just temporarly disabled) \
-E-mail: marcospb19@hotmail.com
+If you have anything to talk about, contact me 😎.
 
-Whatever you wanna talk about, contact me 😎.
+Telegram: @marcospb19 (easiest way) \
+E-mail: marcospb19@hotmail.com
