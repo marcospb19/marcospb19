@@ -12,7 +12,7 @@
 
 Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
 
-I'm an Computer Science undergraduate who loves Rust and unnecessary data structures.
+I'm a Computer Science undergraduate who loves Rust and unnecessary data structures.
 
 ---
 
@@ -48,7 +48,7 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
   <tr>
     <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
     <td>
-      An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and make easy backups.
+      An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
     </td>
   </tr>
 
@@ -62,7 +62,7 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
   <tr>
     <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
-        My favorite, I reverse-engineered the Razer proprietary software in Windows (capturing the USB communication bytes) to make  possible to change mice lighting and sensor settings in Linux. Turned out to be very challenging.
+        My favorite, I reverse-engineered the Razer proprietary software in Windows (capturing the USB communication bytes) to make possible to change mice lighting and sensor settings in Linux. Turned out to be very challenging.
     </td>
   </tr>
 
