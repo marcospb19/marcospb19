@@ -105,7 +105,7 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
 2. I have 7 cats, and in Brazil we say that they got 7 lives instead of 9. 🐱
 3. I want to build software that make people excited. 🙂
 4. I dream of working on an open source text editor in the future.
-5. If my name were to be translated, I'd be called "John Marks Heifer". 🧐
+5. If my name were to be translated, I'd be called "John Marks Pear Tree Heifer". 🧐
 6. Aaaand I'd probably _beat your ass_ in _table tennis_ 🏓.
 
 ---
