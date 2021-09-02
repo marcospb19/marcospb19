@@ -53,7 +53,7 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
   </tr>
 
   <tr>
-    <td><a href="https://github.com/vrmiguel/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=vrmiguel&repo=ouch&theme=dark" /></a></td>
+    <td><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
     <td>
        An unified file compression and decompression CLI tool.
     </td>
