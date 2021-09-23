@@ -20,7 +20,7 @@ I'm a Computer Science undergraduate who loves Rust and unnecessary data structu
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
 
 <table>
-  <td>
+  <td width=380px>
     <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
   </td>
   <td>
@@ -46,7 +46,7 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
 
 <table>
   <tr>
-    <td><a href="https://github.com/marcospb19/dotao"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark" /></a></td>
+    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
     <td>
       An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
     </td>
@@ -58,7 +58,14 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
        An unified file compression and decompression CLI tool.
     </td>
   </tr>
-  
+
+  <tr>
+    <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
+    <td>
+      Awesome rust macros for stdlib by Eric, I helped with the README and documentation.
+    </td>
+  </tr>
+
   <tr>
     <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
@@ -75,21 +82,14 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
   </tr>
 
   <tr>
-    <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
-    <td>
-      Awesome rust macros for stdlib by Eric, I helped with the README and documentation.
-    </td>
-  </tr>
-  
-  <tr>
     <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
     <td>
       A published <i>crate</i> to ask for file types.
     </td>
   </tr>
-  
+
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
       My first C project, made when I started learning C in college, I like to look back to code code I've written in the past, but I hope I'm doing better now.
     </td>
