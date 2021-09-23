@@ -10,7 +10,7 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Welcome!</h2>
 
-Hi, my name is João Marcos (he/him), I'm 20 and I'm from Brazil.
+Hi, my name is João Marcos (he/him), I'm a 21 years old developer from Brazil.
 
 I'm a Computer Science undergraduate who loves Rust and unnecessary data structures.
 
@@ -24,7 +24,7 @@ I'm a Computer Science undergraduate who loves Rust and unnecessary data structu
     <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
   </td>
   <td>
-    I'm mainly focusing in my Rust projects at the moment
+    My main focus is Rust. I enjoy doing open source and I love the Rust community and ecosystem.
   </td>
 </table>
 
@@ -82,16 +82,16 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
   </tr>
   
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
-    <td>
-      This was my first GitHub project ever, just after I started learning C in college, I like to keep a record of the bad code I've written, I hope I'm doing better now.
-    </td>
-  </tr>
-
-  <tr>
     <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
     <td>
-      A published, nice and convenient crate to ask about file types.
+      A published <i>crate</i> to ask for file types.
+    </td>
+  </tr>
+  
+  <tr>
+    <td width=430px><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
+    <td>
+      My first C project, made when I started learning C in college, I like to look back to code code I've written in the past, but I hope I'm doing better now.
     </td>
   </tr>
 </table>
@@ -114,5 +114,5 @@ Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
 
 If you have anything to talk about, contact me 😎.
 
-Telegram: @marcospb19 (easiest way) \
+Telegram: @marcospb19 \
 E-mail: marcospb19@hotmail.com
