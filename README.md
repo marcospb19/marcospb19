@@ -1,6 +1,6 @@
 <!--
   Images links:
-    Godot Glasses:     https://i.imgur.com/i4aFkdF.png
+    Godot Glasses:     https://i.imgur.com/i4aFkdF.png (now unused)
     Godot Thinking:    https://i.imgur.com/ekBkvJA.png
     Godot Thumbs Up:   https://i.imgur.com/drB0jSb.png
     Godot Sunglasses:  https://i.imgur.com/Y65KVTs.png
@@ -8,45 +8,36 @@
 -->
 
 <!-- Welcome -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Welcome!</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-Hi, my name is João Marcos (he/him), I'm a 21 years old developer from Brazil.
+Hi, my name is **João Marcos**.
 
-I'm a Computer Science undergraduate who loves Rust and unnecessary data structures.
-
----
-
-<!-- Studies -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Studies</h2>
+I'm a 21 years old rustacean from Brazil who loves open source.
 
 <table>
-  <td width=380px>
-    <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark" />
+  <td width=378px>
+    <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark&hide=javascript,html,asp" />
   </td>
   <td>
-    My main focus is Rust. I enjoy doing open source and I love the Rust community and ecosystem.
+    I love open source and my main language is Rust.
   </td>
 </table>
 
-I did some talks about Python at:
-- Python Brasil (National event!)
-- GruPy-RN (Local community)
-
-I was first in the biggest programming contest in the state, twice!
-
-I'm a tutor in my college, because I enjoy teaching what I know to  other people.
+Some stuff I did:
+- Got first place in the biggest programming contest of the state, twice.
+- Gave a talk at Python Brasil 2019 (Huge national event!)
 
 ---
 
 <!-- Projects -->
 
-<h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Projects</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Projects</h2>
 
-Here's an intersection of `(software I wrote/helped)` with `(software I like)`:
+Here's an intersection of `{ software I wrote/contributed to }` with `{ software I like }`:
 
 <table>
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
+    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-seven-weld.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
     <td>
       An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
     </td>
