@@ -29,6 +29,10 @@ Some stuff I did:
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats)
+
+---
+
 <!-- Projects -->
 
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Projects</h2>
