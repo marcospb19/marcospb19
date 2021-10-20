@@ -57,7 +57,7 @@ Here's an intersection of `{ software I wrote/contributed to }` with `{ software
   <tr>
     <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
     <td>
-      Awesome rust macros for stdlib by Eric, I helped with the README and documentation.
+      Awesome rust macros for stdlib, I helped with README and documentation, check if you like it.
     </td>
   </tr>
 
