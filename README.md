@@ -41,16 +41,16 @@ Here's an intersection of `{ software I wrote/contributed to }` with `{ software
 
 <table>
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-seven-weld.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
+    <td><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
     <td>
-      An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
+       An unified file compression and decompression CLI tool.
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
+    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-seven-weld.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
     <td>
-       An unified file compression and decompression CLI tool.
+      An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
     </td>
   </tr>
 
