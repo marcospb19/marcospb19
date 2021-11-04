@@ -12,7 +12,7 @@
 
 Hi, my name is **João Marcos**.
 
-I'm a 21 years old rustacean from Brazil who loves open source.
+I'm a 21 years old rustacean from Brazil.
 
 <table>
   <td width=378px>
@@ -24,6 +24,7 @@ I'm a 21 years old rustacean from Brazil who loves open source.
 </table>
 
 Some stuff I did:
+
 - Got first place in the biggest programming contest of the state, twice.
 - Gave a talk at Python Brasil 2019 (Huge national event!)
 
