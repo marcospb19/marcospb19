@@ -10,25 +10,12 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-Hi, my name is **João Marcos**.
-
-I'm a 21 years old rustacean from Brazil.
-
-<table>
-  <td width=378px>
-    <img src="https://github-readme-stats-marcospb19.vercel.app/api/top-langs/?username=marcospb19&layout=compact&theme=dark&hide=javascript,html,asp" />
-  </td>
-  <td>
-    I love open source and my main language is Rust.
-  </td>
-</table>
+Hi, my name is **João Marcos**, I'm a 21 years old rustacean from Brazil.
 
 Some stuff I did:
 
 - Got first place in the biggest programming contest of the state, twice.
 - Gave a talk at Python Brasil 2019 (Huge national event!)
-
----
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats)
 
@@ -42,30 +29,30 @@ Here's an intersection of `{ software I wrote/contributed to }` with `{ software
 
 <table>
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
+    <td width=430px><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
     <td>
-       An unified file compression and decompression CLI tool.
+      Easy and simple compression and decompression CLI tool.
     </td>
   </tr>
 
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-seven-weld.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
+    <td><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-seven-weld.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
     <td>
-      An overengineered <b>Dotfiles Manager</b> inspired by stow that helps you manage configuration files between different systems, and makes easy backups.
+      Overengineered <b>Dotfiles Manager</b> project, inspired by stow, it aims to help you manage configuration files between different systems and make backups.
     </td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/grayjack/sugars"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=grayjack&repo=sugars&theme=dark" /></a></td>
     <td>
-      Awesome rust macros for stdlib, I helped with README and documentation, check if you like it.
+      Awesome rust macros for std, I helped with README and documentation, check if you like it.
     </td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
     <td>
-        My favorite, I reverse-engineered the Razer proprietary software in Windows (capturing the USB communication bytes) to make possible to change mice lighting and sensor settings in Linux. Turned out to be very challenging.
+      I reverse-engineered the Razer proprietary software in Windows (capturing the USB communication bytes) to make possible to configure my mice lighting and sensor settings in Linux. Turned out to be very challenging and fun.
     </td>
   </tr>
 
@@ -73,7 +60,7 @@ Here's an intersection of `{ software I wrote/contributed to }` with `{ software
   <tr>
     <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
     <td>
-       A published <i>crate</i> to ask for file permissions in Rust.
+      A published <i>crate</i> to ask for file permissions in Rust.
     </td>
   </tr>
 
@@ -87,7 +74,7 @@ Here's an intersection of `{ software I wrote/contributed to }` with `{ software
   <tr>
     <td><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
     <td>
-      My first C project, made when I started learning C in college, I like to look back to code code I've written in the past, but I hope I'm doing better now.
+      My first ever project, made when I started learning C in college, I like to look back to code code I've written in the past, but I hope I'm doing better now.
     </td>
   </tr>
 </table>
