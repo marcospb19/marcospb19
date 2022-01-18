@@ -12,10 +12,13 @@
 
 Hi, my name is **João Marcos**, I'm a 21 years old rustacean from Brazil.
 
+Working with Rust at [@terramagna](https://github.com/terramagna)!
+
 Some stuff I did:
 
 - Got first place in the biggest programming contest of the state, twice.
 - Gave a talk at Python Brasil 2019 (Huge national event!)
+- Some open source contributions.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats)
 
