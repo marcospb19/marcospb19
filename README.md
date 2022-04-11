@@ -20,7 +20,7 @@ Some stuff I did:
 - Gave a talk at Python Brasil 2019 (Huge national event!)
 - Some open source contributions.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats) -->
 
 ---
 
