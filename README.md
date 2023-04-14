@@ -140,7 +140,7 @@ A list of programming/engineering games I recommend:
 
 1. [`Factorio`](https://store.steampowered.com/app/427520/Factorio/) (factory development).
 2. [`Logic World`](https://store.steampowered.com/app/1054340/Logic_World/) (circuits creation).
-5. [`MHRD`](https).
+5. [`MHRD`](https://store.steampowered.com/app/576030/MHRD/) (build a computer).
 3. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (robot scripting).
 4. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
 6. [`TIS-100`](https://store.steampowered.com/app/370360/TIS100/) (very primitive assembly).
