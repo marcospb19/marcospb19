@@ -43,7 +43,7 @@ Most recent topics of interest:
   </tr>
 </table>
 
-### The coolest ones:
+### The coolest ones (IMO):
 
 <table>
   <tr>
@@ -60,12 +60,18 @@ Most recent topics of interest:
   </tr>
 </table>
 
+### Experimenting how to build a programming language:
+
+1. [`lox`] - My first hand-written Lexer, Parser, and AST, initial interpreter experimenting.
+2. [`cocoa`] - With Lexer and Parser libs, more interpreter work.
+3. [`sushi`] - Retrying Cocoa, but with good error reporting capabilities.
+4. [`mini-c`] - My first tiny compiler! It _"works"_!
+
 ### More Rust projects:
 
 - [`fs-tree`] - Crate - A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
 - [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
-- [`lox`] - Learning how to hand-craft interpreters in Rust.
 - [`dotao`] - <b>WIP</b> Dotfiles Manager project, inspired by stow.
 
 ### C++
@@ -83,6 +89,9 @@ Most recent topics of interest:
 [`tila`]: https://github.com/marcospb19/tila
 [`blockfrost-rust`]: https://github.com/blockfrost/blockfrost-rust
 [`lox`]: https://github.com/marcospb19/lox
+[`cocoa`]: https://github.com/marcospb19/cocoa
+[`sushi`]: https://github.com/marcospb19/sushi
+[`mini-c`]: https://github.com/marcospb19/mini-c
 [`icpc-training`]: https://github.com/marcospb19/icpc-training
 [`loadingnewyear`]: https://github.com/marcospb19/loadingnewyear
 [`projeto-itp`]: https://github.com/marcospb19/projeto-itp
