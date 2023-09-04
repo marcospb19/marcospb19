@@ -62,9 +62,9 @@ Most recent topics of interest:
 
 ### Experimenting how to build a programming language:
 
-1. [`lox`] - My first hand-written Lexer, Parser, and AST, initial interpreter experimenting.
+1. [`lox`] - First hand-written Lexer, Parser, AST, and basic interpreter.
 2. [`cocoa`] - With Lexer and Parser libs, more interpreter work.
-3. [`sushi`] - Retrying Cocoa, but with good error reporting capabilities.
+3. [`sushi`] - Retrying `Cocoa` with good error reporting.
 4. [`mini-c`] - My first tiny compiler! It _"works"_!
 
 ### More Rust projects:
