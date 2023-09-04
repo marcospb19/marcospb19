@@ -25,9 +25,9 @@ Most recent topics of interest:
 
 <!-- Projects -->
 
-<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Projects I created</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  My projects</h2>
 
-My projects that people use:
+### The ones people use:
 
 <table>
   <tr>
@@ -43,28 +43,41 @@ My projects that people use:
   </tr>
 </table>
 
-More Rust projects:
+### The coolest ones:
 
-- [`marquito`] - A hand-written HTTP server in Rust (handles 90k+ requests per second).
-- [`dawctl`] - An open-source tool reverse-engineered from the Razer proprietary software. Turned out to be very challenging.
-- [`fs-tree`] - Tree representation of a filesystem structure, allows you to traverse branches while applying operations.
-- [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
+<table>
+  <tr>
+    <td width=430px><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
+    <td>
+       An open-source tool reverse-engineered from the Razer proprietary software. This turned out to be very fun and challenging.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/saiintbrisson/marquito"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=saiintbrisson&repo=marquito&theme=dark" /></a></td>
+    <td>
+      A hand-written HTTP server in Rust (can handle 90k+ requests per second).
+    </td>
+  </tr>
+</table>
+
+### More Rust projects:
+
+- [`fs-tree`] - Crate - A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
+- [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
 - [`lox`] - Learning how to hand-craft interpreters in Rust.
-- [`dotao`] - WIP <b>Dotfiles Manager</b> project, inspired by stow.
+- [`dotao`] - <b>WIP</b> Dotfiles Manager project, inspired by stow.
 
-C++:
+### C++
 - [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
 
-C:
+### C
 - [`projeto-itp`] - An interactive CLI relational database written in C.
 - [`loadingnewyear`] - My first ever project, draws a colored year progress in the terminal.
 
-Misc:
+### Misc
 - [`dotfiles`] Personal dotfiles.
 
-[`marquito`]: https://github.com/saiintbrisson/marquito
-[`dawctl`]: https://github.com/marcospb19/dawctl
 [`fs-tree`]: https://github.com/marcospb19/fs-tree
 [`dotao`]: https://github.com/marcospb19/dotao
 [`tila`]: https://github.com/marcospb19/tila
