@@ -12,115 +12,68 @@
 
 Hi, I'm **João Marcos**, I'm a 22 years old rustacean from Brazil.
 
-Click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you're looking for my _**resume**_.
+This is my OSS profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you're looking for my _**resume**_.
 
-Stuff I've been thinking about:
+Most recent topics of interest:
 
-- Cool CLI tools.
-- Distributed systems.
-- Gamedev.
-- How to build compilers.
-- Competitive programming.
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcospb19&theme=dark)](https://git.io/streak-stats) -->
+- Collaborative text editors.
+- Low-latency broadcasting of real-time data.
+- Game development.
+- Ways to craft a compiler.
+- Useful CLI tools.
+- Competitive programming and data structures.
 
 <!-- Projects -->
 
-<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Projects</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  Projects I created</h2>
 
-Here are some of my projects:
+My projects that people use:
 
 <table>
   <tr>
     <td width=430px><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
     <td>
-      A great and easy-to-use CLI tool for (de)compressing, with good error messages.
+       Ouch is (arguably) the best CLI tool out there for (de)compressing stuff.
     </td>
   </tr>
-
-  <tr>
-    <td><a href="https://github.com/saiintbrisson/marquito"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=saiintbrisson&repo=marquito&theme=dark" /></a></td>
-    <td>
-      Me and a friend wrote a HTTP server in Rust for fun (90k+ requests per second).
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
-    <td>
-      An open-source tool reverse-engineered from the Razer proprietary software. Turned out to be very challenging and fun.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/fs-tree"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=fs-tree&theme=dark" /></a></td>
-    <td>
-      Crate to represent a filesystem tree structure, aims to provide ergonomic ways to create, merge, and compare trees, loading from or into your filesystem.
-    </td>
-  </tr>
-
   <tr>
     <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
-    <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/dotao"><img align="center" src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotao&theme=dark"  /></a></td>
-    <td>
-      WIP <b>Dotfiles Manager</b>, <b>Backup tool</b> and <b>Symlink Farm</b> project, inspired by stow, planned to ergonomically help you manage your configuration files with VCS between different systems.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/tila"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=tila&theme=dark" /></a></td>
-    <td>
-      Xorg keylogger to collect metrics about how I type and feed them to keyboard layout comparers.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/blockfrost/blockfrost-rust"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=blockfrost&repo=blockfrost-rust&theme=dark" /></a></td>
-    <td>
-      Blockfrost's Rust SDK.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/file_type_enum"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=file_type_enum&theme=dark" /></a></td>
-    <td>
-      Published crate.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/lox"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=lox&theme=dark" /></a></td>
-    <td>
-      Learning how to hand-craft interpreters in Rust.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/icpc-training"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=icpc-training&theme=dark" /></a></td>
-    <td>
-      Some of the advanced algorithms I studied for ICPC.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/loadingnewyear"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=loadingnewyear&theme=dark" /></a></td>
-    <td>
-      My first ever GitHub project, made when I started learning C.
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/marcospb19/dotfiles"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dotfiles&theme=dark" /></a></td>
-    <td>
-      Personal dotfiles.
+    <td>A crate with 30k+ downloads.
     </td>
   </tr>
 </table>
+
+More Rust projects:
+
+- [`marquito`] - A hand-written HTTP server in Rust (handles 90k+ requests per second).
+- [`dawctl`] - An open-source tool reverse-engineered from the Razer proprietary software. Turned out to be very challenging.
+- [`fs-tree`] - Tree representation of a filesystem structure, allows you to traverse branches while applying operations.
+- [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
+- [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
+- [`lox`] - Learning how to hand-craft interpreters in Rust.
+- [`dotao`] - WIP <b>Dotfiles Manager</b> project, inspired by stow.
+
+C++:
+- [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
+
+C:
+- [`projeto-itp`] - An interactive CLI relational database written in C.
+- [`loadingnewyear`] - My first ever project, draws a colored year progress in the terminal.
+
+Misc:
+- [`dotfiles`] Personal dotfiles.
+
+[`marquito`]: https://github.com/saiintbrisson/marquito
+[`dawctl`]: https://github.com/marcospb19/dawctl
+[`fs-tree`]: https://github.com/marcospb19/fs-tree
+[`dotao`]: https://github.com/marcospb19/dotao
+[`tila`]: https://github.com/marcospb19/tila
+[`blockfrost-rust`]: https://github.com/blockfrost/blockfrost-rust
+[`lox`]: https://github.com/marcospb19/lox
+[`icpc-training`]: https://github.com/marcospb19/icpc-training
+[`loadingnewyear`]: https://github.com/marcospb19/loadingnewyear
+[`projeto-itp`]: https://github.com/marcospb19/projeto-itp
+[`dotfiles`]: https://github.com/marcospb19/dotfiles
 
 ---
 
@@ -144,7 +97,7 @@ A list of programming/engineering games I recommend:
 3. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (robot scripting).
 4. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
 6. [`TIS-100`](https://store.steampowered.com/app/370360/TIS100/) (very primitive assembly).
-7. [`Comet 64`](https://store.steampowered.com/app/1397290/Comet_64/) (scripting).
+7. [`Comet 64`](https://store.steampowered.com/app/1397290/Comet_64/) (primitive scripting).
 
 <!-- Contact -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Contact</h2>
@@ -154,4 +107,4 @@ If you have anything to talk about, contact me 😎.
 Telegram: `@marcospb19` \
 Matrix: `@marcospb19:matrix.org` \
 Rust-lang's zulip: `"João Marcos"` \
-E-mail: `marcospb19@hotmail.com`
+E-mail: `marcospb19 )at( hotmail.com`
