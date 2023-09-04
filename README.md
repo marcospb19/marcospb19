@@ -60,7 +60,7 @@ Most recent topics of interest:
   </tr>
 </table>
 
-### Experimenting how to build a programming language:
+### Experiments on how to build a programming language:
 
 1. [`lox`] - First hand-written Lexer, Parser, AST, and basic interpreter.
 2. [`cocoa`] - With Lexer and Parser libs, more interpreter work.
