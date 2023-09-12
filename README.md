@@ -77,7 +77,7 @@ Most recent topics of interest:
 - [`fs-tree`] - Crate - A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
 - [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
-- [`dotao`] - <b>WIP</b> Dotfiles Manager project, inspired by stow.
+- [`dotao`] - Incomplete experiments with a Dotfiles Manager.
 
 ### C++
 - [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
