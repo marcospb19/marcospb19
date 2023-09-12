@@ -41,6 +41,11 @@ Most recent topics of interest:
     <td>A crate with 30k+ downloads.
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/holmgr/cargo-sweep"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=holmgr&repo=cargo-sweep&theme=dark" /></a></td>
+    <td>I recently became the maintainer of `cargo-sweep`, a cleaning binary util with around 200k downloads.
+    </td>
+  </tr>
 </table>
 
 ### The coolest ones (IMO):
