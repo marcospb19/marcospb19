@@ -12,7 +12,7 @@
 
 Hi, I'm **João Marcos**, I'm a 22 years old rustacean from Brazil.
 
-This is my OSS profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you're looking for my _**resume**_.
+This is my OSS profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you're looking for my _**resume**_. (TODO: update resume)
 
 Most recent topics of interest:
 
