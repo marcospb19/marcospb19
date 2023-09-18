@@ -10,57 +10,58 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-Hi, I'm **João Marcos**, I'm a 22 years old rustacean from Brazil.
+I'm **João Marcos** (he/him), a 22 years old rustacean from Brazil 🇧🇷.
 
-This is my OSS profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you're looking for my _**resume**_. (TODO: update resume)
+This is my **OSS** profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you want my _**resumé**_ instead. (TODO: update resumé)
 
-Most recent topics of interest:
+Topics I'm spending my _free time_ on:
 
+- Cool CLI tools.
+- Compilers and parsers.
 - Collaborative text editors.
-- Low-latency broadcasting of real-time data.
-- Game development.
-- Ways to craft a compiler.
-- Useful CLI tools.
 - Competitive programming and data structures.
+- Game development.
 
 <!-- Projects -->
 
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  My projects</h2>
 
-### The ones people use:
+### The ones people actually use:
 
-<table>
+<table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td width=430px><a href="https://github.com/ouch-org/ouch"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=ouch-org&repo=ouch&theme=dark" /></a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch 🦀 (1.6k ⭐️)</a></td>
     <td>
-       Ouch is (arguably) the best CLI tool out there for (de)compressing stuff.
+       Arguably the best CLI tool for (de)compressing stuff. Shipped to Arch, Manjaro, Homebrew, and more.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/marcospb19/permissions"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=permissions&theme=dark" /></a></td>
-    <td>A crate with 30k+ downloads.
+    <td><a href="https://github.com/ouch-org/permissions">Permissions 🦀</a></td>
+    <td>
+       A crate with 30k+ downloads to check for file permissions.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/holmgr/cargo-sweep"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=holmgr&repo=cargo-sweep&theme=dark" /></a></td>
-    <td>I recently became the maintainer of `cargo-sweep`, a cleaning binary util with around 200k downloads.
+    <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep 🦀</a></td>
+    <td>
+      I've become the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 200k downloads.
     </td>
   </tr>
 </table>
 
 ### The coolest ones (IMO):
 
-<table>
+<table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td width=430px><a href="https://github.com/marcospb19/dawctl"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=marcospb19&repo=dawctl&theme=dark" /></a></td>
+    <td><a href="https://github.com/marcospb19/dawctl">Dawctl 🦀</a></td>
     <td>
-       An open-source tool reverse-engineered from the Razer proprietary software. This turned out to be very fun and challenging.
+       My Deathadder controller reverse-engineered from Razer's proprietary and closed-source software.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/saiintbrisson/marquito"><img src="https://github-readme-stats-marcospb19.vercel.app/api/pin/?username=saiintbrisson&repo=marquito&theme=dark" /></a></td>
+    <td><a href="https://github.com/saiintbrisson/marquito">Marquito 🦀</a></td>
     <td>
-      A hand-written HTTP server in Rust (can handle 90k+ requests per second).
+       An HTTP/1.1 mini-server hand-written in Rust that can handle 90k+ requests per second.
     </td>
   </tr>
 </table>
@@ -74,7 +75,7 @@ Most recent topics of interest:
 
 ### More Rust projects:
 
-- [`fs-tree`] - Crate - A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
+- [`fs-tree`] - (Crate) A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
 - [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
 - [`dotao`] - Incomplete experiments with a Dotfiles Manager.
@@ -105,29 +106,29 @@ Most recent topics of interest:
 ---
 
 <!-- Random facts about me -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Random facts about me</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Random facts about me</h2>
 
 1. I have 7 cats, in Brazil we say that cats have 7 lives instead of 9. 🐱
-2. I'm (healhtly) addicted to coding. 🙂
-3. My dream is to work on a cool open source text editor or programming language in the future.
-4. If my name were to be translated, I'd be called "John Marks Pear Tree Heifer". 🧐
-5. Aaaand I'd probably _beat your ass_ in _table tennis_ 🏓.
+2. My dream is to work on a cool open source text editor or programming language in the future.
+3. If my name were to be translated, I'd be called "John Marks Pear Tree Heifer". 🧐 (wtf)
+4. Aaaand I'd probably _beat your ass_ at _table tennis_ 🏓.
 
 <!-- Programming games I like -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Games I like</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Games I like</h2>
 
-A list of programming/engineering games I recommend:
+Some programming/engineering games I recommend:
 
-1. [`Factorio`](https://store.steampowered.com/app/427520/Factorio/) (factory development).
-2. [`Logic World`](https://store.steampowered.com/app/1054340/Logic_World/) (circuits creation).
-5. [`MHRD`](https://store.steampowered.com/app/576030/MHRD/) (build a computer).
-3. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (robot scripting).
-4. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
+1. [`Factorio`](https://store.steampowered.com/app/427520/Factorio/) (factory building).
+2. [`Logic World`](https://store.steampowered.com/app/1054340/Logic_World/) (circuit building).
+3. [`MHRD`](https://store.steampowered.com/app/576030/MHRD/) (build a computer).
+4. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (robot scripting).
+5. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
 6. [`TIS-100`](https://store.steampowered.com/app/370360/TIS100/) (very primitive assembly).
-7. [`Comet 64`](https://store.steampowered.com/app/1397290/Comet_64/) (primitive scripting).
+
+All games are Turing complete, but 3-6 all have script size limitations.
 
 <!-- Contact -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Contact</h2>
+<h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Contact</h2>
 
 If you have anything to talk about, contact me 😎.
 
