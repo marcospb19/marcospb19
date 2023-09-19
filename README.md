@@ -30,19 +30,22 @@ Topics I'm spending my _free time_ on:
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch">Ouch 🦀 (1.6k ⭐️)</a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.6k ⭐️)</a></td>
+    <td>🦀</td>
     <td>
        Arguably the best CLI tool for (de)compressing stuff. Shipped to Arch, Manjaro, Homebrew, and more.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ouch-org/permissions">Permissions 🦀</a></td>
+    <td><a href="https://github.com/ouch-org/permissions">Permissions</a></td>
+    <td>🦀</td>
     <td>
        A crate with 30k+ downloads to check for file permissions.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep 🦀</a></td>
+    <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep</a></td>
+    <td>🦀</td>
     <td>
       I've become the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 200k downloads.
     </td>
@@ -53,13 +56,15 @@ Topics I'm spending my _free time_ on:
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/marcospb19/dawctl">Dawctl 🦀</a></td>
+    <td><a href="https://github.com/marcospb19/dawctl">Dawctl</a></td>
+    <td>🦀</td>
     <td>
        My Deathadder controller reverse-engineered from Razer's proprietary and closed-source software.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/saiintbrisson/marquito">Marquito 🦀</a></td>
+    <td><a href="https://github.com/saiintbrisson/marquito">Marquito</a></td>
+    <td>🦀</td>
     <td>
        An HTTP/1.1 mini-server hand-written in Rust that can handle 90k+ requests per second.
     </td>
