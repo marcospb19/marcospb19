@@ -10,7 +10,7 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-I'm **João Marcos** (he/him), a 22 years old rustacean from Brazil 🇧🇷.
+I'm **João Marcos** (he/him), a 23 years old rustacean from Brazil 🇧🇷.
 
 This is my **OSS** profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you want my _**resumé**_ instead. (TODO: update resumé)
 
