@@ -33,14 +33,14 @@ Topics I'm spending my _free time_ on:
     <td><a href="https://github.com/ouch-org/ouch">Ouch (1.6k ⭐️)</a></td>
     <td>🦀</td>
     <td>
-       Arguably the best CLI tool for (de)compressing stuff. Shipped to Arch, Manjaro, Homebrew, and more.
+      Easy tool for (de)compressing stuff in the terminal. Shipped to Arch, Manjaro, Homebrew, and more.
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/ouch-org/permissions">Permissions</a></td>
     <td>🦀</td>
     <td>
-       A crate with 30k+ downloads to check for file permissions.
+       Small crate with 30k+ downloads to check for file permissions.
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Topics I'm spending my _free time_ on:
     <td><a href="https://github.com/marcospb19/dawctl">Dawctl</a></td>
     <td>🦀</td>
     <td>
-       My Deathadder controller reverse-engineered from Razer's proprietary and closed-source software.
+       My Deathadder reverse-engineered controller from Razer's proprietary and <b>closed-source</b> software.
     </td>
   </tr>
   <tr>
