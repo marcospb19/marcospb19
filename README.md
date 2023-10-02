@@ -31,7 +31,7 @@ Topics I'm spending my _free time_ on:
     <td><a href="https://github.com/ouch-org/ouch">Ouch (1.6k ⭐️)</a></td>
     <td>🦀</td>
     <td>
-      Easy tool for (de)compressing stuff in the terminal. Shipped to Arch, Manjaro, Homebrew, and more.
+      Easiest tool for (de)compressing stuff via CLI. Shipped to Arch, Manjaro, and more.
     </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Topics I'm spending my _free time_ on:
     <td><a href="https://github.com/marcospb19/dawctl">Dawctl</a></td>
     <td>🦀</td>
     <td>
-       My Deathadder reverse-engineered controller from Razer's proprietary and <b>closed-source</b> software.
+       Deathadder controller reverse-engineered from Razer's proprietary and <b>closed-source</b> software.
     </td>
   </tr>
   <tr>
