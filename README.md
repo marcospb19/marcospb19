@@ -12,8 +12,6 @@
 
 I'm **João Marcos** (he/him), a 23 years old rustacean from Brazil 🇧🇷.
 
-This is my **OSS** profile, click [**here**](https://cdn.statically.io/gh/marcospb19/marcospb19/master/joao_resume.pdf) if you want my _**resumé**_ instead. (TODO: update resumé)
-
 Topics I'm spending my _free time_ on:
 
 - Cool CLI tools.
