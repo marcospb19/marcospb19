@@ -69,19 +69,19 @@ Topics I'm spending my _free time_ on:
   </tr>
 </table>
 
-### Experiments on how to build a programming language:
-
-1. [`lox`] - First hand-written Lexer, Parser, AST, and basic interpreter.
-2. [`cocoa`] - With Lexer and Parser libs, more interpreter work.
-3. [`sushi`] - Retrying `Cocoa` with good error reporting.
-4. [`mini-c`] - My first tiny compiler! It _"works"_!
-
 ### More Rust projects:
 
 - [`fs-tree`] - (Crate) - A path Trie with an API focused on filesystem operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
 - [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
 - [`dotao`] - Incomplete experiments with a Dotfiles Manager.
+
+### Experiments on building a programming language with Rust:
+
+1. [`lox`] - First hand-written Lexer, Parser, AST, and basic interpreter.
+2. [`cocoa`] - Now using convenient Lexer and Parser libs, more interpreter experiments.
+3. [`sushi`] - Retrying `Cocoa`, but with good error reporting.
+4. [`mini-c`] - My first tiny LLVM-IR compiler! It _"works"_! (kinda)
 
 ### C++
 - [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
