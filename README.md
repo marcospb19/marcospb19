@@ -78,7 +78,7 @@ Topics I'm spending my _free time_ on:
 
 ### More Rust projects:
 
-- [`fs-tree`] - (Crate) A Tree representation of a filesystem directory, allows you to traverse branches while applying operations.
+- [`fs-tree`] - (Crate) - A path Trie with an API focused on filesystem operations.
 - [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
 - [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
 - [`dotao`] - Incomplete experiments with a Dotfiles Manager.
