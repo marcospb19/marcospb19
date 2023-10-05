@@ -10,15 +10,16 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-I'm **João Marcos** (he/him), a 23 years old rustacean from Brazil 🇧🇷.
+Hi! I'm **João Marcos** (he/him), a 23-year-old rustacean born in Brazil 🇧🇷.
 
-Topics I'm spending my _free time_ on:
+Topics I'm spending my _free time_ thinking about:
 
 - Cool CLI tools.
 - Compilers and parsers.
-- Collaborative text editors.
-- Competitive programming and data structures.
+- Data structures.
 - Game development.
+
+Also, knowing `async Rust` somehow kept me employed for the last 3 years, so I guess that's a thing!
 
 <!-- Projects -->
 
