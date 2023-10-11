@@ -37,7 +37,7 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ouch-org/permissions">Permissions</a></td>
+    <td><a href="https://github.com/marcospb19/permissions">Permissions</a></td>
     <td>🦀</td>
     <td>
        Small crate with 30k+ downloads to check for file permissions.
@@ -52,7 +52,7 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
   </tr>
 </table>
 
-### The coolest ones (IMO):
+### The cool ones (IMO):
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
@@ -76,13 +76,6 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
        A simple dotfiles manager that is a superset of <code>stow</code>.
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/saiintbrisson/marquito">Marquito</a></td>
-    <td>🦀</td>
-    <td>
-       An HTTP/1.1 mini-server hand-written in Rust that can handle 90k+ requests per second.
-    </td>
-  </tr>
 </table>
 
 ### Experiments on building a programming language:
@@ -92,10 +85,10 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 3. [`sushi`] 🦀 - Retrying `Cocoa`, but with good error reporting.
 4. [`mini-c`] 🦀 - My first tiny LLVM-IR compiler! It _"works"_! (kinda)
 
-### More Rust projects:
+### More Rust experiment projects:
 
-- [`blockfrost-rust`] 🦀 - Blockfrost's SaaS Rust SDK.
-- [`tila`] 🦀 - A Xorg keylogger to collect metrics about how I type, and feed keyboard layout analyzers.
+- [`Marquito`] 🦀 - An HTTP/1.1 server hand-written in Rust that handles 90k+ requests per second (pair programmed).
+- [`tila`] 🦀 - A Xorg keylogger to feed keyboard layout analyzers (I was considering switching to Colemak).
 
 ### C
 - [`projeto-itp`] - An interactive CLI relational database (Portuguese README).
@@ -110,7 +103,6 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 [`fs-tree`]: https://github.com/marcospb19/fs-tree
 [`dotao`]: https://github.com/marcospb19/dotao
 [`tila`]: https://github.com/marcospb19/tila
-[`blockfrost-rust`]: https://github.com/blockfrost/blockfrost-rust
 [`lox`]: https://github.com/marcospb19/lox
 [`cocoa`]: https://github.com/marcospb19/cocoa
 [`sushi`]: https://github.com/marcospb19/sushi
@@ -119,13 +111,14 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 [`loadingnewyear`]: https://github.com/marcospb19/loadingnewyear
 [`projeto-itp`]: https://github.com/marcospb19/projeto-itp
 [`dotfiles`]: https://github.com/marcospb19/dotfiles
+[`Marquito`]: https://github.com/saiintbrisson/marquito
 
 ---
 
 <!-- Random facts about me -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Random facts about me</h2>
 
-1. I have 7 cats, in Brazil we say that cats have 7 lives instead of 9. 🐱
+1. I have 7 cats, in Brazil we say that cats have 7 lives instead of 9. 🐱 (idk why)
 2. My dream is to work on a cool open source text editor or programming language in the future.
 3. If my name were to be translated, I'd be called "John Marks Pear Tree Heifer". 🧐 (wtf)
 4. Aaaand I'd probably _beat your ass_ at _table tennis_ 🏓.
