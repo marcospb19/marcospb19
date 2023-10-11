@@ -12,14 +12,15 @@
 
 Hi! I'm **João Marcos** (he/him), a 23-year-old rustacean born in Brazil 🇧🇷.
 
-Topics I'm spending my _free time_ thinking about:
+Topics I'm spending my **free time** thinking about:
 
 - Cool CLI tools.
 - Compilers and parsers.
+- Cool test tooling.
 - Data structures.
 - Game development.
 
-Also, knowing `async Rust` somehow kept me employed for the last 3 years, so I guess that's a thing!
+Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess that's a thing!
 
 <!-- Projects -->
 
@@ -46,7 +47,7 @@ Also, knowing `async Rust` somehow kept me employed for the last 3 years, so I g
     <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep</a></td>
     <td>🦀</td>
     <td>
-      I've become the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 200k downloads.
+      I'm now the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 200k downloads.
     </td>
   </tr>
 </table>
@@ -62,6 +63,20 @@ Also, knowing `async Rust` somehow kept me employed for the last 3 years, so I g
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/marcospb19/fs-tree">Fs-tree</a></td>
+    <td>🦀</td>
+    <td>
+       A path Trie with an API focused on filesystem operations.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
+    <td>🦀</td>
+    <td>
+       A simple dotfiles manager that is a superset of <code>stow</code>.
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/saiintbrisson/marquito">Marquito</a></td>
     <td>🦀</td>
     <td>
@@ -70,26 +85,24 @@ Also, knowing `async Rust` somehow kept me employed for the last 3 years, so I g
   </tr>
 </table>
 
+### Experiments on building a programming language:
+
+1. [`lox`] 🦀 - First hand-written Lexer, Parser, AST, and basic interpreter.
+2. [`cocoa`] 🦀 - Now using convenient Lexer and Parser libs, more interpreter experiments.
+3. [`sushi`] 🦀 - Retrying `Cocoa`, but with good error reporting.
+4. [`mini-c`] 🦀 - My first tiny LLVM-IR compiler! It _"works"_! (kinda)
+
 ### More Rust projects:
 
-- [`fs-tree`] - (Crate) - A path Trie with an API focused on filesystem operations.
-- [`blockfrost-rust`] - Blockfrost's SaaS Rust SDK.
-- [`tila`] - A Xorg keylogger to collect metrics about how I type, to feed keyboard layout analyzers.
-- [`dotao`] - Incomplete experiments with a Dotfiles Manager.
+- [`blockfrost-rust`] 🦀 - Blockfrost's SaaS Rust SDK.
+- [`tila`] 🦀 - A Xorg keylogger to collect metrics about how I type, and feed keyboard layout analyzers.
 
-### Experiments on building a programming language with Rust:
-
-1. [`lox`] - First hand-written Lexer, Parser, AST, and basic interpreter.
-2. [`cocoa`] - Now using convenient Lexer and Parser libs, more interpreter experiments.
-3. [`sushi`] - Retrying `Cocoa`, but with good error reporting.
-4. [`mini-c`] - My first tiny LLVM-IR compiler! It _"works"_! (kinda)
+### C
+- [`projeto-itp`] - An interactive CLI relational database (Portuguese README).
+- [`loadingnewyear`] - My first ever project, draws a colored year progress in the terminal.
 
 ### C++
 - [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
-
-### C
-- [`projeto-itp`] - An interactive CLI relational database written in C.
-- [`loadingnewyear`] - My first ever project, draws a colored year progress in the terminal.
 
 ### Misc
 - [`dotfiles`] Personal dotfiles.
@@ -139,4 +152,4 @@ If you have anything to talk about, contact me 😎.
 Telegram: `@marcospb19` \
 Matrix: `@marcospb19:matrix.org` \
 Rust-lang's zulip: `"João Marcos"` \
-E-mail: `marcospb19 )at( hotmail.com`
+E-mail: `marcospb19@hotmail.com`
