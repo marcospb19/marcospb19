@@ -12,6 +12,8 @@
 
 Hi! I'm **João Marcos** (he/him), a 23-year-old rustacean born in Brazil 🇧🇷.
 
+I just wrote my first blog post, [check it out](http://marcos.unsafe.rs/)!
+
 Topics I'm spending my **free time** thinking about:
 
 - Cool CLI tools.
