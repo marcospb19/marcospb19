@@ -97,10 +97,10 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 - [`loadingnewyear`] - My first ever project, draws a colored year progress in the terminal.
 
 ### C++
-- [`icpc-training`] Some of the advanced algorithms I studied for ICPC.
+- [`icpc-training`] - Some of the advanced algorithms I studied for ICPC.
 
 ### Misc
-- [`dotfiles`] Personal dotfiles.
+- [`dotfiles`] - Personal dotfiles.
 
 [`fs-tree`]: https://github.com/marcospb19/fs-tree
 [`dotao`]: https://github.com/marcospb19/dotao
