@@ -16,8 +16,9 @@ I just wrote my first blog post, [check it out](http://marcos.unsafe.rs/)!
 
 Topics I'm spending my **free time** thinking about:
 
-- Cool CLI tools.
+- Text editors.
 - Compilers and parsers.
+- Cool CLI tools.
 - Cool test tooling.
 - Data structures.
 - Game development.
