@@ -33,7 +33,7 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.7k ⭐️)</a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.8k ⭐️)</a></td>
     <td>🦀</td>
     <td>
       Easiest tool for (de)compressing stuff via CLI. Shipped to Arch, Manjaro, and more.
