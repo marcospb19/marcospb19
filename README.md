@@ -14,8 +14,6 @@ Hey! I'm **João Marcos**, a 23-year-old Rustacean from Brazil 🇧🇷.
 
 Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
 
----
-
 I've always been obsessed with programming, so now I'm on a career break to "reset".
 
 <!-- Projects -->
