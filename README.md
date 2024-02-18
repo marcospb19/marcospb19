@@ -10,20 +10,13 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-Hi! I'm **João Marcos** (he/him), a 23-year-old rustacean born in Brazil 🇧🇷.
+Hey! I'm **João Marcos**, a 23-year-old Rustacean from Brazil 🇧🇷.
 
-I just wrote my first blog post, [check it out](http://marcos.unsafe.rs/)!
+Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
 
-Topics I'm spending my **free time** thinking about:
+---
 
-- Text editors.
-- Compilers and parsers.
-- Cool CLI tools.
-- Cool test tooling.
-- Data structures.
-- Game development.
-
-Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess that's a thing!
+I've always been obsessed with programming, so now I'm on a career break to "reset".
 
 <!-- Projects -->
 
@@ -33,7 +26,7 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.8k ⭐️)</a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.9k ⭐️)</a></td>
     <td>🦀</td>
     <td>
       Easiest tool for (de)compressing stuff via CLI. Shipped to Arch, Manjaro, and more.
@@ -43,14 +36,14 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
     <td><a href="https://github.com/marcospb19/permissions">Permissions</a></td>
     <td>🦀</td>
     <td>
-       Small crate with 30k+ downloads to check for file permissions.
+       Small crate with 34k+ downloads to check for file permissions.
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep</a></td>
     <td>🦀</td>
     <td>
-      I'm now the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 200k downloads.
+      I'm now the maintainer of <code>cargo-sweep</code>, a <code>target/</code> cleaning tool with around 280k downloads.
     </td>
   </tr>
 </table>
@@ -76,7 +69,7 @@ Knowing `async Rust` somehow kept me employed for the last 3 years, so I guess t
     <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
     <td>🦀</td>
     <td>
-       A simple dotfiles manager that is a superset of <code>stow</code>.
+       (WIP) A simple dotfiles manager that is a superset of <code>stow</code>.
     </td>
   </tr>
 </table>
