@@ -81,8 +81,8 @@ I've always been obsessed with programming, so now I'm on a career break to "res
 
 ### More Rust experiment projects:
 
-- [`Marquito`] 🦀 - An HTTP/1.1 server hand-written in Rust that handles 90k+ requests per second (pair programmed).
-- [`tila`] 🦀 - A Xorg keylogger to feed keyboard layout analyzers (I was considering switching to Colemak).
+- [`Marquito`] 🦀 - An HTTP/1.1 server hand-written in Rust that handles 90k+ requests per second.
+- [`balu`] 🦀 - A single-thread and blocking HTTP server.
 
 ### C
 - [`projeto-itp`] - An interactive CLI relational database (Portuguese README).
@@ -96,7 +96,6 @@ I've always been obsessed with programming, so now I'm on a career break to "res
 
 [`fs-tree`]: https://github.com/marcospb19/fs-tree
 [`dotao`]: https://github.com/marcospb19/dotao
-[`tila`]: https://github.com/marcospb19/tila
 [`lox`]: https://github.com/marcospb19/lox
 [`cocoa`]: https://github.com/marcospb19/cocoa
 [`sushi`]: https://github.com/marcospb19/sushi
@@ -106,6 +105,7 @@ I've always been obsessed with programming, so now I'm on a career break to "res
 [`projeto-itp`]: https://github.com/marcospb19/projeto-itp
 [`dotfiles`]: https://github.com/marcospb19/dotfiles
 [`Marquito`]: https://github.com/saiintbrisson/marquito
+[`balu`]: https://github.com/marcospb19/balu
 
 ---
 
