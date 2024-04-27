@@ -24,7 +24,7 @@ I've always been obsessed with programming, so now I'm on a career break to "res
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch">Ouch (1.9k ⭐️)</a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch (2.0k ⭐️)</a></td>
     <td>🦀</td>
     <td>
       Easiest tool for (de)compressing stuff via CLI. Shipped to Arch, Manjaro, and more.
