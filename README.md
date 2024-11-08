@@ -14,7 +14,6 @@ Hey! I'm **João Marcos**, a 24-year-old Rustacean from Brazil 🇧🇷.
 
 Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
 
-Busy with work and unfortunately not spending enough time with open-source atm.
 <!-- Projects -->
 
 <h2 align="center"><img align="center" src="https://i.imgur.com/ekBkvJA.png" height="54px" />  My projects</h2>
@@ -23,17 +22,17 @@ Busy with work and unfortunately not spending enough time with open-source atm.
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/ouch-org/ouch">Ouch (2.0k ⭐️)</a></td>
+    <td><a href="https://github.com/ouch-org/ouch">Ouch (2.3k ⭐️)</a></td>
     <td>🦀</td>
     <td>
-      Easiest tool for (de)compressing stuff via CLI. Shipped to Arch, Manjaro, and more.
+      Easiest tool for (de)compressing via CLI. Shipped to Arch, Brew, and more.
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/marcospb19/permissions">Permissions</a></td>
     <td>🦀</td>
     <td>
-       Small crate with 34k+ downloads to check for file permissions.
+       Small crate with 50k+ downloads to check for file permissions.
     </td>
   </tr>
   <tr>
@@ -45,7 +44,7 @@ Busy with work and unfortunately not spending enough time with open-source atm.
   </tr>
 </table>
 
-### The cool ones (IMO):
+### Some of the ones (IMO):
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
@@ -53,6 +52,13 @@ Busy with work and unfortunately not spending enough time with open-source atm.
     <td>🦀</td>
     <td>
        Deathadder controller reverse-engineered from Razer's proprietary and <b>closed-source</b> software.
+    </td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
+    <td>🦀</td>
+    <td>
+       My simple dotfiles manager inspired by <code>stow</code>.
     </td>
   </tr>
   <tr>
@@ -69,13 +75,6 @@ Busy with work and unfortunately not spending enough time with open-source atm.
        Parser And Summarizer Of Quake Arena 3 log files.
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
-    <td>🦀</td>
-    <td>
-       (WIP) A simple dotfiles manager that is a superset of <code>stow</code>.
-    </td>
-  </tr>
 </table>
 
 ### Experiments on building a programming language:
@@ -85,7 +84,7 @@ Busy with work and unfortunately not spending enough time with open-source atm.
 3. [`sushi`] 🦀 - Retrying `Cocoa`, but with good error reporting.
 4. [`mini-c`] 🦀 - My first tiny LLVM-IR compiler! It _"works"_! (kinda)
 
-### More Rust experiment projects:
+### HTTP server experiments:
 
 - [`Marquito`] 🦀 - An HTTP/1.1 server hand-written in Rust that handles 90k+ requests per second.
 - [`balu`] 🦀 - A single-thread and blocking HTTP server.
@@ -131,9 +130,9 @@ Some programming/engineering games I recommend:
 1. [`Factorio`](https://store.steampowered.com/app/427520/Factorio/) (factory building).
 2. [`Logic World`](https://store.steampowered.com/app/1054340/Logic_World/) (circuit building).
 3. [`MHRD`](https://store.steampowered.com/app/576030/MHRD/) (build a computer).
-4. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (robot scripting).
-5. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
-6. [`TIS-100`](https://store.steampowered.com/app/370360/TIS100/) (very primitive assembly).
+4. [`Exapunks`](https://store.steampowered.com/app/716490/EXAPUNKS/) (medium-level _robot_ scripting).
+5. [`TIS-100`](https://store.steampowered.com/app/370360/TIS100/) (very primitive assembly).
+6. [`Shenzhen I/O`](https://store.steampowered.com/app/504210/SHENZHEN_IO/) (assembly).
 
 All games are Turing complete, but 3-6 all have script size limitations.
 
