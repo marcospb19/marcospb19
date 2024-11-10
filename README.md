@@ -32,7 +32,7 @@ Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
     <td><a href="https://github.com/marcospb19/permissions">Permissions</a></td>
     <td>🦀</td>
     <td>
-       Small crate with 50k+ downloads to check for file permissions.
+       Crate with 50k+ downloads for file permission checks.
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
     <td><a href="https://github.com/marcospb19/fs-tree">Fs-tree</a></td>
     <td>🦀</td>
     <td>
-       A path Trie with an API focused on filesystem operations.
+       Crate: A path Trie with an API focused on filesystem operations.
     </td>
   </tr>
   <tr>
