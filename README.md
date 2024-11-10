@@ -48,17 +48,17 @@ Check out my blog at [marcos.unsafe.rs](https://marcos.unsafe.rs).
 
 <table style="max-width: 100%; white-space: nowrap;">
   <tr>
-    <td><a href="https://github.com/marcospb19/dawctl">Dawctl</a></td>
-    <td>🦀</td>
-    <td>
-       Deathadder controller reverse-engineered from Razer's proprietary and <b>closed-source</b> software.
-    </td>
-  </tr>
-    <tr>
     <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
     <td>🦀</td>
     <td>
        My simple dotfiles manager inspired by <code>stow</code>.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/marcospb19/dawctl">Dawctl</a></td>
+    <td>🦀</td>
+    <td>
+       Deathadder controller reverse-engineered from Razer's proprietary and <b>closed-source</b> software.
     </td>
   </tr>
   <tr>
