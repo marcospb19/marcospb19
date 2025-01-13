@@ -12,6 +12,8 @@
 
 Hey! I'm **João Marcos**, a 24-year-old Rustacean from Brazil 🇧🇷.
 
+Working at [Zed](https://github.com/zed-industries/zed).
+
 Blog: [marcos.unsafe.rs](https://marcos.unsafe.rs).
 
 <!-- Projects -->
