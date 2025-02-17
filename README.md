@@ -45,6 +45,13 @@ Blog: [marcos.unsafe.rs](https://marcos.unsafe.rs).
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/marcospb19/climsg">climsg</a></td>
+    <td>🦀</td>
+    <td>
+       Message passing via CLI, messages and signals are broadcasted to multiple listeners.
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/marcospb19/pasoqa3">pasoqa3</a></td>
     <td>🦀</td>
     <td>
