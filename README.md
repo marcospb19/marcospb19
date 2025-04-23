@@ -12,9 +12,11 @@
 
 Hey! I'm **João Marcos**, a 24-year-old Rustacean from Brazil 🇧🇷.
 
-Just joined the [Zed](https://github.com/zed-industries/zed) team.
+Random stuff:
 
-Blog: [marcos.unsafe.rs](https://marcos.unsafe.rs).
+1. I have [a blog](https://marcos.unsafe.rs).
+2. I live with 8 cats.
+3. If I'm coding then I'm certainly listening music.
 
 <!-- Projects -->
 
@@ -128,16 +130,6 @@ Blog: [marcos.unsafe.rs](https://marcos.unsafe.rs).
 [`balu`]: https://github.com/marcospb19/balu
 
 ---
-
-<!-- Random facts about me -->
-<h2 align="center"><img align="center" src="https://i.imgur.com/myYgqBu.png" height="54px" />  Random facts about me</h2>
-
-1. I live with 8 rescued cats. 🐈
-2. I started working with Rust on the first day of my first job. 🦀
-3. Daily, on average, I listen to music for 5 hours. 🎧
-4. I once solved a Rubik's cube blindfolded, but it took 10 minutes (it's a little easier when you can see).
-5. If my name were to be translated, I'd be called "John Marks Pear Tree Heifer". 🧐 (wtf)
-6. I recently started practicing indoor volleyball (and it's awesome). 🏐
 
 <!-- Programming games I like -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/Y65KVTs.png" height="54px" />  Games I like</h2>
