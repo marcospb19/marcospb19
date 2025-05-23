@@ -161,6 +161,6 @@ And, some non-engineering games:
 Feel free to reach out 😎🤙.
 
 Telegram: `@marcospb19` \
-Matrix: `@marcospb19:matrix.org` (it might take me a while to check) \
 Rust-lang's zulip: `"João Marcos"` \
-E-mail: `marcospb19@hotmail.com`
+E-mail: `marcospb19@hotmail.com` \
+Matrix: `@marcospb19:matrix.org` (it might take me a while to check)
