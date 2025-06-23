@@ -94,7 +94,7 @@ Random stuff:
 
 1. [`lox`] 🦀 - First hand-written Lexer, Parser, AST, and basic interpreter.
 2. [`cocoa`] 🦀 - Experimenting with convenient Lexer and Parser libs, more interpreter experiments.
-3. [`sushi`] 🦀 - Retrying `Cocoa`, but with good error reporting (sub-experiment: UI-tests driven development).
+3. [`sushi`] 🦀 - Retrying `Cocoa`, but with good error reporting.
 4. [`mini-c`] 🦀 - My first tiny LLVM-IR compiler! For a minuscule subset of C.
 
 ### HTTP server experiments:
