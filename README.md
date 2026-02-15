@@ -60,13 +60,6 @@ Random stuff:
        Parser And Summarizer Of Quake Arena 3 log files.
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/holmgr/cargo-sweep">cargo-sweep</a></td>
-    <td>🦀</td>
-    <td>
-      A cargo subcommand for cleaning artifacts, supports filters. (500k+ downloads)
-    </td>
-  </tr>
 </table>
 
 ### Crates
