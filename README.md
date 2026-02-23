@@ -25,7 +25,7 @@ Check out my [new blog](https://marcos.unsafe.rs) if you haven't already.
     <td><a href="https://github.com/marcospb19/dotin">Dotin</a></td>
     <td>🦀</td>
     <td>
-       Easy and simple dotfiles manager. Inspired by, and compatible with, <code>stow</code>.
+       Simple dotfiles manager. Inspired by and compatible with <code>stow</code>.
     </td>
   </tr>
   <tr>
