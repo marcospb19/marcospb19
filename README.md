@@ -12,11 +12,7 @@
 
 Hey! I'm **João Marcos**, a 25-year-old Rustacean from Brazil 🇧🇷.
 
-Random stuff:
-
-1. I have [a blog](https://marcos.unsafe.rs).
-2. I live with 8 cats.
-3. If I'm coding then I'm certainly listening music.
+Check out my [new blog](https://marcos.unsafe.rs) if you haven't already.
 
 <!-- Projects -->
 
