@@ -135,14 +135,13 @@ Some programming/engineering games:
 
 All of the above are Turing Complete, but if you really want to build a computer, go for `MHRD` or `Logic World`.
 
-And, some non-engineering games:
+And, some non-engineering games I played recently:
 
-1. [`Chants of Sennaar`](https://store.steampowered.com/app/1931770/Chants_of_Sennaar/) (translation and puzzles)
-2. [`Hollow Knight`](https://store.steampowered.com/app/367520/Hollow_Knight/)
-3. [`Outer Wilds`](https://store.steampowered.com/app/753640/Outer_Wilds/)
-4. [`Sable`](https://store.steampowered.com/app/757310/Sable/)
-5. [`Dark Souls`](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)
-6. [`Fallout: New Vegas`](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) (cool RPG)
+1. [`Hollow Knight`](https://store.steampowered.com/app/367520/Hollow_Knight/)
+2. [`Outer Wilds`](https://store.steampowered.com/app/753640/Outer_Wilds/)
+3. [`Sable`](https://store.steampowered.com/app/757310/Sable/)
+4. [`Dark Souls`](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)
+5. [`Fallout: New Vegas`](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) (cool RPG)
 
 <!-- Contact -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/i4aFkdF.png" height="54px" />  Contact Info</h2>
