@@ -32,7 +32,7 @@ Check out my [new blog](https://marcos.unsafe.rs) if you haven't already.
     <td><a href="https://github.com/ouch-org/ouch">Ouch</a></td>
     <td>🦀</td>
     <td>
-      Easiest tool for (de)compressing via CLI. Shipped to Arch, Brew, and more.
+      (3.5k+ ⭐) Easiest tool for (de)compressing via CLI. Shipped to Arch, Brew, and more.
     </td>
   </tr>
   <tr>
