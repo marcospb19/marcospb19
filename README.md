@@ -10,7 +10,7 @@
 <!-- Welcome -->
 <h2 align="center"><img align="center" src="https://i.imgur.com/drB0jSb.png" height="54px" />  Welcome!</h2>
 
-Hey! I'm **João Marcos**, a 25-year-old Rustacean from Brazil 🇧🇷.
+Hey! I'm **João Marcos**, a 26-year-old Rustacean from Brazil 🇧🇷.
 
 Check out my [new blog](https://marcos.unsafe.rs) if you haven't already.
 
